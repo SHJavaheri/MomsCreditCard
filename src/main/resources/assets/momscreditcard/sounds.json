@@ -1,0 +1,21 @@
+{
+  "mom_ambient1": { "sounds": [ "momscreditcard:mom/mom_ambient1" ] },
+  "mom_ambient2": { "sounds": [ "momscreditcard:mom/mom_ambient2" ] },
+  "mom_ambient3": { "sounds": [ "momscreditcard:mom/mom_ambient3" ] },
+
+  "mom_chase1": { "sounds": [ "momscreditcard:mom/mom_chase1" ] },
+  "mom_chase2": { "sounds": [ "momscreditcard:mom/mom/mom_chase2" ] },
+  "mom_chase3": { "sounds": [ "momscreditcard:mom/mom_chase3" ] },
+  "mom_chase4": { "sounds": [ "momscreditcard:mom/mom_chase4" ] },
+  "mom_chase5": { "sounds": [ "momscreditcard:mom/mom_chase5" ] },
+
+  "mom_death": { "sounds": [ "momscreditcard:mom/mom_death" ] },
+
+  "mom_chase_music": { "sounds": [ "momscreditcard:mom/mom_chase_music" ] },
+  "mom_chase_music_stop": { "sounds": [ "momscreditcard:mom/mom_chase_music_stop" ] },
+
+
+
+  "dad_boss_music": {"sounds": ["momscreditcard:dad/dad_chase_music"]},
+  "dad_death": {"sounds": ["momscreditcard:dad/dad_death"]}
+}
